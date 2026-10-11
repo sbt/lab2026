@@ -7,3 +7,7 @@
 - build6: test
 - build7: clean
 - build8: version change
+
+### License
+
+To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to these examples to the public domain worldwide. These examples are distributed without any warranty. See http://creativecommons.org/publicdomain/zero/1.0/.
